@@ -1,0 +1,12 @@
+参数说明：
+
+
+upload_type：组件类型  img表示图片上传，video表示视频上传
+
+base_url:上传组件所在目录
+
+upload_url：上传地址
+
+size_limit：单个文件大小限制（单位：M）
+
+num_limit：上传文件个数限制
